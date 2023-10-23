@@ -1,2 +1,2 @@
-# ToffA-DAS Approach
-The Dynamic adaptable Systems Trade-off Analysis(ToffA-DAS) approach to identify the valid and optimal configurations by embracing domain analysis, modeling, prioritization, contribution, and optimization.
+# ToffA-DSPL Approach
+The approach named Trade-off Analysis for Dynamic Software Product Lines (ToffA-DSPL) identifies the valid and optimal configurations by embracing domain analysis, modeling, prioritization, contribution, and optimization.
